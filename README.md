@@ -1,2 +1,2 @@
 # fusion-site
-responsive website that i built to practice hatml scss and js/jquery 
+responsive website that i built to practice html css / scss and js/jquery 
